@@ -19,3 +19,4 @@ Learning Java through the resources listed below:
 
 - [ ] [Java: A beginer's Guide 6th Edition](http://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/0071809252/ref=sr_1_1?ie=UTF8&qid=1451917604&sr=8-1&keywords=java+a+beginners+guide)
 - [ ] [Oracle: The Java Tutorials](http://docs.oracle.com/javase/tutorial/)
+- [ ] [Head First Java, 2nd Editiion](http://www.amazon.com/dp/0596009208//ref=cm_sw_su_dp?tag=nethta-20)
