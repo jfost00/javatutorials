@@ -12,6 +12,7 @@ Learning Java through the resources listed below:
 ## Coursera
 
 - [ ] [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java/)
+- [ ] [Advanced Data Structures in Java](https://www.coursera.org/learn/advanced-data-structures)
 
 ## YouTube
 
