@@ -29,3 +29,4 @@ Learning Java through the resources listed below:
 - [ ] [Oracle: The Java Tutorials](http://docs.oracle.com/javase/tutorial/)
 - [ ] [Head First Java, 2nd Editiion](http://www.amazon.com/dp/0596009208//ref=cm_sw_su_dp?tag=nethta-20)
 - [ ] [Beginning Java Programming: The Object-Oriented Approach](http://www.amazon.com/Beginning-Java-Programming-Object-Oriented-Approach/dp/1118739493/ref=sr_1_1?ie=UTF8&qid=1458690269&sr=8-1&keywords=Beginning+Java+Programming%3A+The+Object-Oriented+Approach)
+- [ ] [Java Cookbook](http://www.amazon.com/Java-Cookbook-Ian-F-Darwin/dp/144933704X/ref=sr_1_1?ie=UTF8&qid=1460412297&sr=8-1&keywords=java+cookbook)
