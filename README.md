@@ -8,6 +8,7 @@ Learning Java through the resources listed below:
 - [ ] [Java Database Integration with JDBC](http://www.lynda.com/Java-tutorials/Java-Database-Integration-JDBC/110284-2.html)
 - [ ] [Up and Running with Java Applications](https://www.lynda.com/Java-tutorials/Up-Running-Java-Applications/435790-2.html)
 - [ ] [Java Advanced Training](http://www.lynda.com/Java-tutorials/Java-Advanced-Training/107061-2.html)
+- [ ] [and more...](https://www.lynda.com/Java-training-tutorials/1077-0.html)
 
 ## Coursera
 
