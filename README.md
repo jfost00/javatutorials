@@ -23,6 +23,7 @@ Learning Java through the resources listed below:
 ## YouTube
 
 - [ ] [Derek Banas Java Tutorials](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
+- [ ] [Brian Will Java Tutorials](https://www.youtube.com/watch?v=1YBY1kQIG2s&index=1&list=PLC847C5B15C22BFDC)
 
 ## Books/Tutorials
 
